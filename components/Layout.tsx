@@ -1,6 +1,7 @@
 import * as React from 'react'
 import Link from 'next/link'
 import Head from 'next/head'
+import '../styles/styles.scss'
 
 type Props = {
   title?: string,

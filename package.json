@@ -8,14 +8,17 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
     "@zeit/next-typescript": "^1.1.1",
     "apollo-boost": "^0.3.1",
     "apollo-link-context": "^1.0.17",
     "apollo-link-http": "^1.5.14",
+    "bulma": "^0.7.4",
     "cookie": "^0.3.1",
     "graphql": "^14.2.1",
     "isomorphic-unfetch": "^3.0.0",
     "next": "7.0.3",
+    "node-sass": "^4.12.0",
     "react": "16.8.6",
     "react-apollo": "^2.5.5",
     "react-dom": "16.8.6"
